@@ -4,6 +4,7 @@ import { FaBars, FaTimes, FaRegHandPointRight, FaSearch } from 'react-icons/fa';
 import { navbarData } from '../../data/nav-links';
 import { motion, AnimatePresence } from 'framer-motion';
 import { RiArrowDropDownLine } from "react-icons/ri";
+import logo from '../../../src/assets/logo.png'
 
 const Navbar = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
@@ -51,7 +52,7 @@ const Navbar = () => {
         <div className="flex flex-row items-center w-[98%] xsm:w-[95%] xs:w-11/12 sm:w-10/12 lg:w-11/12 xl:w-10/12 mx-auto lg:justify-between">
           <div className="flex-shrink-0">
             <Link to="/">
-              <img src="/src/assets/logo.png" alt="Logo" className="sm:h-[15vh] xsm:h-[10vh] h-[8vh]" />
+              <img src={logo} alt="Logo" className="sm:h-[15vh] xsm:h-[10vh] h-[8vh]" />
             </Link>
           </div>
 
