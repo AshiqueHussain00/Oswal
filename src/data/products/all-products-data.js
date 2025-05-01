@@ -56,7 +56,7 @@ import tango from '../../images/Products/Insecticides/Tango-Emamectin-Benzoate-1
 import azoxybinPlus from '../../images/Products/Fungicides/Azoxybin-Plus.png'
 import azoxybin from '../../images/Products/Fungicides/Azoxybin.png'
 import azoxybinTop from '../../images/Products/Fungicides/Azoxybin-Top.png'
-import breeza from '../../images/Products/Fungicides/Breeza.png'
+import breeza from '../../images/Products/Fungicides/BREEZA.png'
 import osavet from '../../images/Products/Fungicides/Osavet.png'
 import carbot from '../../images/Products/Fungicides/Carbot.png'
 import zordaar from '../../images/Products/Fungicides/Zordaar.png'
