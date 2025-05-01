@@ -104,7 +104,7 @@ import solid80 from '../../images/Products/Herbicides/Solid-80.png'
 import saathsaath from '../../images/Products/Herbicides/Saath-Saath.png'
 
 // ------------------Fertilizer Product------------------
-import Oswal from '../../images/Products/Fertilizer/Oswal-potash.png'
+import Oswal from '../../images/Products/Fertilizer/Oswal-Potash.png'
 import GrowMore from '../../images/Products/Fertilizer/Grow-More.png'
 
 // ------------bio Product------------------
